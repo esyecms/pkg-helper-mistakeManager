@@ -1,6 +1,6 @@
 <?php
 
-namespace Engine\Helper\MistakeManager\MistakeManager;
+namespace Engine\Helper\MistakeManager;
 
 class MistakeManager
 {
